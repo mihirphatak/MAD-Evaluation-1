@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Evaluation1</string>
+    <string name="main_operation">\?</string>
+    <string name="input_a_hint">Enter A</string>
+    <string name="input_b_hint">Enter B</string>
+    <string name="pick_button_main_label">Pick Operation</string>
+    <string name="calculate_button_label_main">Calculate</string>
+    <string name="clear_button_main_label">Clear</string>
+    <string name="radio_button_add_label">Add</string>
+    <string name="radio_button_subtract_label">Subtract</string>
+    <string name="radio_button_multply_label">Multiply</string>
+    <string name="radio_button_divide_label">Divide</string>
+    <string name="operation_rg_label">Operation:</string>
+    <string name="select_button_pick_label">Select</string>
+    <string name="cancel_button_pick_label">Cancel</string>
+    <string name="result_cancel_button_label">Close</string>
+</resources>
